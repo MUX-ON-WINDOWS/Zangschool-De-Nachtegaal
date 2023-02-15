@@ -2,10 +2,11 @@
 import Home from '../App.vue'
 import Docenten from '../Docenten.vue'
 
-const routes = {
-    '/': Home,
-    '/docenten': Docenten
-}
+const routes = [
+    { path: '/', component: Home },
+    { path: '/docenten', component: Docenten },
+];
+console.log(routes)
 
 </script>
 

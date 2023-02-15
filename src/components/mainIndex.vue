@@ -1,11 +1,7 @@
-<script setup>
-
-</script>
-
 <template>
 <div class="container">
-    <div class="containerSection">
-            <div class="containerText">
+    <div class="container-section">
+            <div class="container-text">
                 <h3>
                     Zing je graag, maar klink je als een kraai? <br>
                     Neem dan lessen bij Zangschool De Nachtegaal!
@@ -26,13 +22,13 @@
                     <br>Doe mee! En laat iedereen een poepje ruiken! <br>
                 </p>
             </div>
-            <div class="containerImage">
-                <img id="imageGirl" src="img/Moodboard_KathleenWillems_Max.png" alt="kanarie">
+            <div class="container-image">
+                <img id="imageGirl" src="../assets/images/styleScape_Max.png" alt="kanarie">
             </div>
     </div>
-    <div class="backgroundcolorSection">
-        <div class="containerSection">
-            <div class="containerText">
+    <div class="background-color-section">
+        <div class="container-section">
+            <div class="container-text">
                 <h3>
                     Doe de Vlaamse Gaai workshop!<br>
                     Leer zingen als Geike Arnaert. <br>
@@ -47,7 +43,7 @@
                     Klik <a href="" style="color: orangered;">hier</a> voor meer informatie.
                 </p>
             </div>
-            <div class="containerText">
+            <div class="container-text">
                 <h3>
                     Ben jij fan van Heavy Metal en grunten? <br>
                     Ga dan voor de Dode Mus workshop! <br>
@@ -64,11 +60,11 @@
             </div>
         </div>
     </div>
-    <div class="containerSection">
+    <div class="container-section">
         <div class="containerImage">
-            <img id="imageGirl" src="img/Moodboard_KathleenWillems_Max.png" alt="kanarie">
+            <img id="imageGirl" src="../assets/images/styleScape_Max.png" alt="kanarie">
         </div>
-        <div class="containerText">
+        <div class="container-text">
             <h3>Nieuws: helaas lekkage in de volière.</h3><br>
 
             Door onbekende oorzaak lekt het in de volière. Hierdoor zijn we genoodzaakt om de lessen<br>

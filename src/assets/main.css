@@ -1,6 +1,5 @@
-@import './base.css';
-
-body{
+body {
+  min-height: 100vh;
   margin: 0;
   padding: 0;
 }
@@ -30,21 +29,21 @@ body{
 .container{
   color: #2584C0;
 }
-.containerText {
+.container-text {
   width: 400px;
   padding: 20px;
 }
-.containerText li{
+.container-text li{
   list-style: "- ";
 }
-.containerSection {
+.container-section {
   display: flex;
   margin-left: 10%;
   margin-right: 10%;
   flex-direction: row;
   justify-content: space-around;
 }
-.backgroundcolorSection {
+.background-color-section {
   background-color: rgb(222,238,248);
 }
 #imageGirl {
@@ -52,7 +51,7 @@ body{
   height: 200px;
   padding: 20px;
 }
-.containerImage {
+.container-image {
   padding: 1%;
   width: 400px;
 }
